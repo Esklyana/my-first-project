@@ -223,6 +223,7 @@ ul {
     	z-index: 4;
     	background: #fff;
     	padding: 30px;
+    	justify-content: center;
 	}
 
 	.head2 {
@@ -230,6 +231,7 @@ ul {
 		flex-direction: column;
 		align-items: flex-end;
 		font-size: 14px;
+		padding: 0;
 	}
 
 	.nav {
